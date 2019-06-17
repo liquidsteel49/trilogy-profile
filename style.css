@@ -24,3 +24,8 @@ html {
   .bio {
     color: white;   
   }
+
+  .me {
+      height: 150px;
+      border-radius: 50%;
+  }
