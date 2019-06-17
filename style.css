@@ -28,4 +28,6 @@ html {
   .me {
       height: 150px;
       border-radius: 50%;
+      border-style: solid;
+      border-color: black;
   }
