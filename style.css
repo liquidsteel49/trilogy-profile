@@ -5,3 +5,22 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
+
+  h1 {
+      color: white;
+      font-size: 50px
+  }
+
+  h2 {
+      color: white;
+      font-size: 18px
+  }
+
+  p {
+    color: white;
+  }
+
+
+  .bio {
+    color: white;   
+  }
