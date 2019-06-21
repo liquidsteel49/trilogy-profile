@@ -9,21 +9,21 @@ html {
 
   h1 {
       color: white;
-      font-size: 50px
+      font-size: 50px;
+      font-weight: normal;
+      margin-bottom: 0;
   }
 
   h2 {
       color: white;
-      font-size: 18px
-  }
-
-  p {
-    color: white;
+      font-size: 18px;
+      margin-top: 0;
   }
 
 
   .bio {
     color: white;   
+    font-size: 14px;
   }
 
   .me {
@@ -39,4 +39,11 @@ html {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+  }
+
+  .grey {
+    height: 3px;
+    background-color: beige;
+    border: none;
+    width: 50px;
   }
